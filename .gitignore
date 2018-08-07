@@ -1,0 +1,11 @@
+.vs/
+.DS_Store
+jspm_packages/
+node_modules/
+npm-debug.log
+obj/
+bin/
+test/e2e/dist
+platforms/
+plugins/
+debug.log
